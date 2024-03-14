@@ -56,7 +56,7 @@ Experience the sophistication of DiptiBraille's sleek design and intuitive inter
 
 - [Sudipa Saha](https://github.com/Sudipa45): Sudipa's significant contributions in designing crucial algorithms, along with her unwavering support and proficiency in merging code, have played a pivotal role in shaping the project's development and direction.
 
-- [Mahareen Afroj](https://github.com/maharinafroj): Mahareen's instrumental role in communication and outreach efforts has been invaluable, fostering connections critical to the project's outreach.
+
 - [BUBT](https://www.bubt.edu.bd/): The Bangladesh University of Business and Technology (BUBT) has provided essential financial support through its Student Fund, enabling the realization of Dipti Braille. This support underscores BUBT's commitment to fostering innovation and accessibility in education and technology.We extend our sincere gratitude to BUBT
 
 - [Md. Saifur Rahman](https://www.bubt.edu.bd/department/member_details/80) (Chairman of BUBT) and [Dr. Muhammad Fayyaz Khan](https://eee.bubt.edu.bd/faculty-members/dr-muhammad-fayyaz-khan) (Vice-Chancellor of BUBT): Their steadfast moral support have been the cornerstone of DiptiBraille's journey, ensuring its realization and impact.
